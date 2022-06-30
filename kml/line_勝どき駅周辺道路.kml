@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="line_勝どき駅周辺道路" id="line_勝どき駅周辺道路">
+	<SimpleField name="id" type="float"></SimpleField>
+</Schema>
+<Folder><name>line_勝どき駅周辺道路</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#line_勝どき駅周辺道路">
+		<SimpleData name="id">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>139.769755480049,35.6539043770222 139.770994725589,35.6547751982121 139.77141897181,35.6550878006905 139.772535409232,35.6558581425123 139.773596024784,35.6565503337146 139.774556160968,35.6572090317941 139.775583283397,35.6579012229963 139.776565748329,35.6585599210758 139.777659857004,35.6593637560203 139.780462114935,35.6612840283878</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#line_勝どき駅周辺道路">
+		<SimpleData name="id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>139.777659857004,35.6593637560203 139.776755542691,35.6602680703329 139.775661434017,35.6594977285111</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#line_勝どき駅周辺道路">
+		<SimpleData name="id">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>139.776565748329,35.6585599210758 139.775661434017,35.6594977285111 139.774824105949,35.6603573853268</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#line_勝どき駅周辺道路">
+		<SimpleData name="id">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>139.774824105949,35.6603573853268 139.773785819146,35.6596540297503 139.774634311588,35.6588167016831</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#line_勝どき駅周辺道路">
+		<SimpleData name="id">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>139.775661434017,35.6594977285111 139.774634311588,35.6588167016831 139.775583283397,35.6579012229963</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#line_勝どき駅周辺道路">
+		<SimpleData name="id">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>139.773785819146,35.6596540297503 139.772814518588,35.6589618385481 139.771809724908,35.6583143048428 139.772624724226,35.657499305524 139.773596024784,35.6565503337146</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#line_勝どき駅周辺道路">
+		<SimpleData name="id">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>139.772814518588,35.6589618385481 139.773640682281,35.6581133461067 139.774634311588,35.6588167016831</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#line_勝どき駅周辺道路">
+		<SimpleData name="id">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>139.774556160968,35.6572090317941 139.773640682281,35.6581133461067</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#line_勝どき駅周辺道路">
+		<SimpleData name="id">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>139.774556160968,35.6572090317941 139.775505132777,35.6562712243588 139.776532255207,35.6569745799353</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#line_勝どき駅周辺道路">
+		<SimpleData name="id">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>139.776532255207,35.6569745799353 139.775583283397,35.6579012229963</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#line_勝どき駅周辺道路">
+		<SimpleData name="id">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>139.776532255207,35.6569745799353 139.777559377636,35.6576667711375 139.776565748329,35.6585599210758</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#line_勝どき駅周辺道路">
+		<SimpleData name="id">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>139.777559377636,35.6576667711375 139.778597664439,35.6584147842109 139.777659857004,35.6593637560203</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#line_勝どき駅周辺道路">
+		<SimpleData name="id">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>139.771809724908,35.6583143048428 139.771686916791,35.6584036198366 139.770626301239,35.6577337573829 139.771619930546,35.6567401280765</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#line_勝どき駅周辺道路">
+		<SimpleData name="id">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>139.772624724226,35.657499305524 139.771619930546,35.6567401280765 139.772535409232,35.6558581425123</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

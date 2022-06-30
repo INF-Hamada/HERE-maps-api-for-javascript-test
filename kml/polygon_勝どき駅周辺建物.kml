@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="polygon_勝どき駅周辺建物" id="polygon_勝どき駅周辺建物">
+	<SimpleField name="id" type="float"></SimpleField>
+</Schema>
+<Folder><name>polygon_勝どき駅周辺建物</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygon_勝どき駅周辺建物">
+		<SimpleData name="id">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>139.775667016204,35.6562154024877 139.775795406507,35.6562461045168 139.77578982432,35.6562963442008 139.776063351489,35.6563354195106 139.776149875389,35.6565140494983 139.77620569726,35.6565028851241 139.776250354757,35.656622902147 139.776549001768,35.6565280049661 139.776415029277,35.6562488956104 139.776434566932,35.6561791182714 139.776646690042,35.6559725773482 139.776373162874,35.655791156267 139.776147084296,35.6560032793773 139.776085680237,35.6560172348451 139.775722838075,35.6559642040675 139.775667016204,35.6562154024877</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygon_勝どき駅周辺建物">
+		<SimpleData name="id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>139.776920217211,35.6571141346131 139.776939754866,35.6570918058647 139.776889515182,35.6569048025963 139.776736005036,35.6567987410412 139.776638316762,35.6568964293157 139.776920217211,35.6571141346131</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygon_勝どき駅周辺建物">
+		<SimpleData name="id">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>139.777023487673,35.6570443572742 139.777188162193,35.6570024908708 139.77760961732,35.6572899735073 139.777975250576,35.6569020115028 139.77749239139,35.656547542621 139.777408658584,35.6565531248081 139.776886724088,35.6567150082344 139.777023487673,35.6570443572742</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygon_勝どき駅周辺建物">
+		<SimpleData name="id">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>139.777849651366,35.6577867881605 139.777871980114,35.6577728326927 139.777891517769,35.6577839970669 139.777975250576,35.6577058464473 139.777952921827,35.6576807266053 139.778045027915,35.6575774561437 139.778089685412,35.6575858294243 139.778123178534,35.6575579184888 139.778106431973,35.6575327986467 139.778139925096,35.6574853500563 139.777961295108,35.6573430042848 139.777651483723,35.6576416512955 139.777849651366,35.6577867881605</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygon_勝どき駅周辺建物">
+		<SimpleData name="id">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>139.778458109761,35.657423945998 139.778494393977,35.6573876617818 139.778513931632,35.6574099905302 139.778477647416,35.6574379014658 139.77873163693,35.6576081581728 139.778765130052,35.6575802472372 139.778773503333,35.6575858294243 139.778742801304,35.6576221136406 139.778968879882,35.6577728326927 139.779164256431,35.6575997848921 139.778868400514,35.6573960350624 139.778882355982,35.6573681241269 139.778633948655,35.6572062407005 139.778608828813,35.6572146139812 139.77831576399,35.6570136552451 139.778131551815,35.6571894941392 139.778458109761,35.657423945998</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
